@@ -1,0 +1,1 @@
+web: gunicorn khampu_project.wsgi --log-file -   
